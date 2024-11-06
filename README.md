@@ -4,7 +4,7 @@ Build order of projects MinHook -> GWCA -> MileLDC
 
 Use injector of choice to inject the created dll into the game.
 
-You need to be logged into the world (not char select).
+You need to be logged into the world (not char select) when injecting.
 
 It will record the lord damage for each team in the observe.
 
