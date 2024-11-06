@@ -10,4 +10,4 @@ It will record the lord damage for each team in the observe.
 
 The damage recorded is only an estimate, because it counts the life steal as valid lord damage.
 
-Use at your own rish.
+Use at your own risk.
